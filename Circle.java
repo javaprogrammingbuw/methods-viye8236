@@ -20,7 +20,7 @@ public class Circle {
 		  System.out.println("Circumference of the circle"+ circumference);
 		  
 			  
-		
+	//This should be done in seperate methods!	
 		
 	}
 	//todo: add some methods to compute a circle's diameter, circumference and area.
